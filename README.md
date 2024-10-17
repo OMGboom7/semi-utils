@@ -15,6 +15,10 @@
 
 **[Wiki](../../wiki)**
 
+## 打包
+
+`❯ pyinstaller --onefile --windowed gui.py --icon=logo.icns`
+
 ## 效果展示
 
 ||||
